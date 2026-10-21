@@ -2,7 +2,7 @@
 An ergonomic, adjustable, and portable laptop stand designed for better cooling and posture.
 
 ## What is this?
-Laptop Stand is a very compact, adjustable and sleek mount for your laptop. This design is done in Onshape from scratch and has 6 adjustable inclines for your laptop. It shares colors with my other Organizer projects, i.e., orange and white. It is very sturdy and can serve variety of laptop sizes. Being lightweight, this stand is also travell friendly and also cheap to print, so if it breaks due to a mishap you can print it again. This stand is 25mm (2.5 cm) wide and therefore has a direct contact with a relatively higher area with the laptop which makes it usable on variety of surfaces though it is reccomended to be placed on a plain desk or table.
+The Laptop Stand is a very compact, adjustable, and sleek mount for your laptop. This design is done in Onshape from scratch and has 6 adjustable inclines for your laptop. It shares colors with my other Organizer projects, i.e., orange and white. It is very sturdy and can serve a variety of laptop sizes. Being lightweight, this stand is also travel-friendly and cheap to print, so if it breaks due to a mishap, you can print it again. This stand is 25mm (2.5 cm) wide and therefore has direct contact with a relatively large area of the laptop, which makes it usable on a variety of surfaces, though it is recommended to be placed on a plain desk or table.
 
 <img src="Assets/Screenshot-2026-10-22-002538.png" alt="image 1 of book stand" width="400">
 
@@ -24,10 +24,10 @@ Click [here](https://cad.onshape.com/documents/1e385fa37b7561cb39ad7471/w/bd9d94
 ## How to get your own Laptop Stand?
 1. Download the source CAD .step files from the [Hardware](Hardware/) directory
 2. Import the file into your CAD editor and make edits as you want (Optional)
-3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](https://robu.in) or [JLCPCB](https://jlcpcb.com)) (Dont forget to get the prints twice to make a pair of a simgle laptop stand)
+3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](https://robu.in) or [JLCPCB](https://jlcpcb.com)) (Don't forget to get the prints twice to make a pair of a single laptop stand)
 4. Wait for it to arrive
 5. You will need superglue while assembling the stand
-6. As seen in the image place in the parts (You may need to slightly sand the parts first): Base, Support Arm and Holder
+6. As seen in the image, place the parts (You may need to slightly sand the parts first): Base, Support Arm, and Holder
 7. Further, as seen in the image highlighted by different colors, insert the locking stems and stick them with superglue
 8. This will make your stand usable and assembled for your laptop
 9. That's it! Go enjoy your Laptop!
